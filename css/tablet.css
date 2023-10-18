@@ -1,6 +1,6 @@
 @media (max-width: 1024px)
  {
-    .header { width: 100%;}    
+    /* .header { width: 100%;}     */
     
 
     /* cover  */
@@ -39,6 +39,7 @@
     .section2_article2 {
         flex-direction: row;
     margin-top: 20px;
+    margin-left: 0;
     }
 
     .section2_article2_image1 {
